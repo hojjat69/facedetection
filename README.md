@@ -1,4 +1,4 @@
-# facedetection
+# Face Detection:
 In this repository, the faces and eyes are detected based on Viola-Jones algorithm based on Haar-like features. It benefits from cascading
 to increase the computation efficiency.  
 
@@ -6,7 +6,7 @@ to increase the computation efficiency.
 
 'pip install opencv-python'
 
-# Then you need to set the directory to the folder holding all files of the repository and run the main.py:
+#Then you need to set the directory to the folder holding all files of the repository and run the main.py:
 'python main.py'
 
-# You can quit the program by pressing q on keyboard!
+#You can quit the program by pressing q on keyboard!
