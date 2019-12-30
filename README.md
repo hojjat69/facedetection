@@ -7,6 +7,6 @@ to increase the computation efficiency.
 'pip install opencv-python'
 
 #Then you need to set the directory to the folder holding all files of the repository and run the main.py:
-'python main.py'
+`python main.py`
 
 #You can quit the program by pressing q on keyboard!
